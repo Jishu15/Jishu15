@@ -12,7 +12,7 @@
 
 - 👨‍💻 All of my projects are available at [https://linktr.ee/sibasishdey_15](https://linktr.ee/sibasishdey_15)
 
-- 📫 How to reach me **sibasishdey556@gmail.com**
+- 📫 How to reach me **sdey151103@gmail.com**
 
 - ⚡ Fun fact **I am funny (probably)**
 
