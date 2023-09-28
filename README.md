@@ -35,3 +35,9 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jishu15&show_icons=true&locale=en" alt="jishu15" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jishu15&" alt="jishu15" /></p>
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Jishu15)  
+
+![GitHub metrics](https://metrics.lecoq.io/Jishu15)  
+
+![GitHub streak stats](https://streak-stats.demolab.com/?user=Jishu15)  
