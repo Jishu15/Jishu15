@@ -43,5 +43,3 @@
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Jishu15)  
 
 ![GitHub metrics](https://metrics.lecoq.io/Jishu15)  
-
-![GitHub streak stats](https://streak-stats.demolab.com/?user=Jishu15)  
