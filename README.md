@@ -1,5 +1,5 @@
 [![MasterHead](https://github.com/Jishu15/Jishu15/blob/main/Navy%20Geometric%20Technology%20LinkedIn%20Banner.png)]
-<h1 align="center">Hi 👋, I'm Sibasish Dey</h1>
+<h1 align="center">Hi 👋 I'm Sibasish Dey</h1>
 <h3 align="center">A passionate Software developer from India</h3>
 
 <img align="right" alt="coding" width="400" src="https://media4.giphy.com/media/lXHwJv89PvdN200Anr/giphy.gif?cid=ecf05e47ivyl2jzw9sr4grzkv2n1cz4idgmdbu7j47nrxe19&ep=v1_gifs_search&rid=giphy.gif&ct=g">
