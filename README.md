@@ -10,11 +10,11 @@
 
 - 🌱 I’m currently learning **VueJs, Grafana**
 
-- 👨‍💻 All of my projects are available at [https://linktr.ee/sibasishdey_15](https://linktr.ee/sibasishdey_15)
+- 👨‍💻 All of my projects are available at - [https://linktr.ee/sibasishdey_15](https://linktr.ee/sibasishdey_15)
 
-- 📫 How to reach me **sdey151103@gmail.com**
+- 📫 How to reach me - **sdey151103@gmail.com**
 
-- ⚡ Fun fact **I am funny (probably)**
+- ⚡ Fun fact - **I am funny (probably)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -33,8 +33,6 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/sibasishdey"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="sibasishdey" /></a></p><br><br>
-
-<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="sibasish-dey-bb56b9221" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/sibasish-dey-bb56b9221?trk=profile-badge">Sibasish Dey</a></div>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jishu15&show_icons=true&locale=en&layout=compact" alt="jishu15" /></p>
 
