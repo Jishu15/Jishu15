@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋 I'm Sibasish Dey</h1>
 <h3 align="center">A passionate Software developer from India</h3>
 
-<img align="right" alt="coding" width="400" src="![image](https://github.com/Jishu15/Jishu15/assets/105670310/24804988-525e-4f89-8be9-a1068fe69e13)">
+<img align="right" alt="coding" width="400" src="https://media4.giphy.com/media/WTjXuYA2y4o3UZly3W/giphy.gif?cid=ecf05e47vhd81qglvxk0xtduaypmb88y1mbo8nbjtaoswhf5&ep=v1_gifs_search&rid=giphy.gif&ct=g">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jishu15&label=Profile%20views&color=0e75b6&style=flat" alt="jishu15" /> </p>
 
