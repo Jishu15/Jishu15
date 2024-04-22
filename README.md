@@ -14,7 +14,7 @@
 
 - 📫 How to reach me - **sdey151103@gmail.com**
 
-- ⚡ Fun fact - **I am funny (probably)**
+- ⚡ Fun fact - **I am funny (probably)** 🗿
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
